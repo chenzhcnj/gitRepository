@@ -3,7 +3,8 @@ public class Admin implements Serializable {
 	private String adminId;
 	private String password;
 	private String user11;
-	prvate String age;
+	private String age;
 	private Integer flg;
 	private String name;
+	private Date lastLogin;
 }
