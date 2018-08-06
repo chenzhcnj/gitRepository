@@ -4,4 +4,5 @@ public class Admin implements Serializable {
 	private String password;
 	private String user11;
 	prvate String age;
+	private Date lastLogin;
 }
